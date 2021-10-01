@@ -1,4 +1,4 @@
-- 👋 Hi, I’m João Victor Picoloto
+- 👋 Hi, I’m João Picoloto
 - 👀 I’m interested in uma oportunidade de emprego !
 - 🌱 I’m currently learning JavaScript, Java, PHP
 - 💞️ I’m looking to collaborate on ...
